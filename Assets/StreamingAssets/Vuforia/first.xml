@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="jengiparempi" size="2.000000 0.636267" />
+    <ImageTarget name="kaarmeParempi" size="1.000000 0.979757" />
+    <ImageTarget name="puutarha4asd" size="1.000000 0.782019" />
+    <ImageTarget name="kyyhkynen2" size="0.500000 0.455390" />
+    <ImageTarget name="snanke_for_the_demo1" size="0.210000 0.248684" />
+    <ImageTarget name="woundedAngel" size="0.200000 0.168807" />
+  </Tracking>
+</QCARConfig>
