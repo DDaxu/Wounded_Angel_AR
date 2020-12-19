@@ -1,0 +1,25 @@
+Hey!
+
+This is my and mine friend's school project and it is about exploring church using AR.
+
+This AR application have 5 different painting which have additional information in AR.
+
+What you need to run this application in unity:
+Unity version 2018.4.14f1 or similar from the same year.
+Unity vuforia installed (You can install or add it in unity hub)
+Web-camera
+
+To test this application you need to do following:
+
+1. Clone the project to your computer and start it with Unity version 2018 and something (otherwise Vuforia won't work)
+2.Pick a scene Ohjattu or Vapaa (They are the same, but Ohjattu is the demo we were focusing on)
+3. There is ARcamera object in hierarchy, open it in inspector and click "Open vuforia Engine Configuration"
+  3.1 Under webcam there is Camera device, change it to your webcam if you have two of them. Otherwise webcamera is the one which you already have. For example
+      if you're using laptop there are laptops webcam and the possible external one.
+4.Under game window, change resolution to 1280x720 potrait. Otherwise the UI won't scale
+5. Test pictures are here: https://drive.google.com/drive/folders/1FG8RbpqbOuNGkMfBCY8rD54iVlZ799nT?usp=sharing
+  5.1 If you're in Ohjattu scene, Go through pictures from 1-5 (They are named in order even though they are not in order in drive)
+  5.2 If you're in Vapaa scene, you can look all pictures in any order you want.
+  
+  
+Have fun with my demo!
